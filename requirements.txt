@@ -1,2 +1,6 @@
-numpy scipy matplotlib scikit-learn jupyter
+numpy
+scipy
+matplotlib
+scikit-learn
+jupyter
 opencv-contrib-python==3.4.1.15
