@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "E:\\ProgramFiles\\Anaconda3\\envs\\opencv-env\\python.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "E:\\ProgramFiles\\Anaconda3\\Scripts\\activate.bat E:\\ProgramFiles\\Anaconda3 && conda activate opencv-env"]
+}
