@@ -1,4 +1,8 @@
 {
     "python.pythonPath": "E:\\ProgramFiles\\Anaconda3\\envs\\opencv-env\\python.exe",
-    "terminal.integrated.shellArgs.windows": ["/K", "E:\\ProgramFiles\\Anaconda3\\Scripts\\activate.bat E:\\ProgramFiles\\Anaconda3 && conda activate opencv-env"]
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "E:\\ProgramFiles\\Anaconda3\\Scripts\\activate.bat E:\\ProgramFiles\\Anaconda3 && conda activate opencv-env"
+    ],
+    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration"
 }
